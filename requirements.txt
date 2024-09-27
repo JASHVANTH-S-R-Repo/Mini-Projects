@@ -1,0 +1,5 @@
+sympy
+pandas
+plotly
+matplotlib
+wordcloud
